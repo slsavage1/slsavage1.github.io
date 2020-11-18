@@ -1,0 +1,31 @@
+
+img {
+    width: 100%;
+    height: auto;
+  }
+  body {
+    background-color: rgb(73, 38, 38);
+  }
+  nav{
+    height:75px;
+  }
+  ul{
+    list-style:none;
+  }
+  li{
+    display:inline-block;
+    padding:10px;
+  }
+html{
+  font-size: 100%;
+  font-family: sans;
+}
+h1{
+  color: rgb(236, 236, 236);
+}
+p{
+  color: rgb(236, 236, 236);
+}
+h2{
+  color: rgb(236, 236, 236);
+}
